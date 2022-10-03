@@ -1,0 +1,6 @@
+name: 'Add the calculate using HTML'
+stepId: step2
+stepBreakDown:
+    - text: 'Now using the input with type as “button” add the onlick function to our button for the javascript button . Also use some style to add the background color and with some width and margin to our input box .'
+    - text: 'styles the button as necessary'
+    

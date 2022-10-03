@@ -1,0 +1,6 @@
+name: 'Create a display to view BMI'
+stepId: step3
+stepBreakDown:
+    - text: 'Create a display that will show calculations'
+    - text: 'No set height and will be determined by the amount of content'
+  

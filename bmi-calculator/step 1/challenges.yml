@@ -1,0 +1,6 @@
+name: 'Add a heading and slider  using HTML'
+stepId: step1
+stepBreakDown:
+    - text: 'Use the h1 tag and added some styles like increasing the font-size and text-alingment property to add the styles to our webpage.'
+    - text: 'Style the slider correctly'
+    

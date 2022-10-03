@@ -1,0 +1,6 @@
+name: 'Make the Calculator Basic Structure'
+stepId: step0
+stepBreakDown:
+    - text: 'Use a div tag to create the main container, which will be used to add the basic structure of our calculator.'
+    - text: 'Use CSS to add the styles needed to our webpage and container to make it look like a calculator.'
+    - text: 'Add calculator look to our webpage. Add border and color to box.'
