@@ -1,0 +1,6 @@
+name: 'Add the functionality to our calculator'
+stepId: step4
+stepBreakDown:
+    - text: 'Define variables for range sliders and weight variable'
+    - text: 'display the  slider values using .innerHTML and .value property'
+    - text: 'add the formula for calculating the BMi. First and foremost, we will accept the user’s weight and height, and then we will add that value to the formula. Whatever the value is, we will compare it using the for loop, and then define the person as underweight, healthy, overweight, or obese based on that value.'
