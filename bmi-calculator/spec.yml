@@ -4,7 +4,7 @@ tags: ["HTML/CSS", "JavaScript"]
 starter-files: https://github.com/pranayjalan254/codedamn-bmi-calculator
 type: frontend
 level: easy
-cover-image: https://github.com/pranayjalan254/codedamn-bmi-calculator/blob/main/designs/Final%20design.jpg
+cover-image: https://raw.githubusercontent.com/pranayjalan254/codedamn-bmi-calculator/main/designs/Final%20design.jpg
 short-description: A simple bmi calculator usin HTML, CSS and some Javascript.
 long-description: |
   Your challenge is to build out this bmi calculator and get it looking as close to the design as possible.
