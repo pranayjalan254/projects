@@ -5,6 +5,9 @@
 Import Roboto font from Google Fonts
 
 background-color: #f6f6f6
+
 vigo-color: #f09831
+
 slider-color: #A3A3A3
+
 input-number-color: #EBEBEB
