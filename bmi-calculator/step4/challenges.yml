@@ -3,4 +3,6 @@ stepId: step4
 stepBreakDown:
     - text: 'Define variables for range sliders and weight variable'
     - text: 'display the  slider values using .innerHTML and .value property'
-    - text: 'add the formula for calculating the BMi'
+    - text: 'add the formula for calculating the BMI'
+    - text: 'Based on formulae calculate the user inputs and categorise them.'
+    
