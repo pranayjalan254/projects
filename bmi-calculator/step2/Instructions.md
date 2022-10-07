@@ -2,4 +2,4 @@
 
 ## Make sure you style it properly
 
-## MAke sure the alignment is proper.
+## Make sure the alignment is proper.
