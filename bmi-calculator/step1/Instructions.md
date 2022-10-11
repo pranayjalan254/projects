@@ -1,13 +1,18 @@
-## In this step you need to add the heading and slider using HTML.
 
-## Style it as you want
+## Heading & Slider
 
-Import Roboto font from Google Fonts
+In this step you need to make the heading and design slider using HTML & CSS.
 
-background-color: #f6f6f6
+You can refer to the design in the starter files of this project and try to make it as same as possible.
 
-vigo-color: #f09831
+##### Here are some styles and fonts you can use while making the design.
 
-slider-color: #A3A3A3
+`Import Roboto font from Google Fonts`
 
-input-number-color: #EBEBEB
+`background-color: #f6f6f6`
+
+`vigo-color: #f09831`
+
+`slider-color: #A3A3A3`
+
+`input-number-color: #EBEBEB`
