@@ -8,10 +8,10 @@ cover-image: https://raw.githubusercontent.com/pranayjalan254/codedamn-bmi-calcu
 short-description: A simple bmi calculator usin HTML, CSS and some Javascript.
 long-description: |
   Your challenge is to build out this bmi calculator and get it looking as close to the design as possible.
-  This project focuses mostly on HTML, CSS and layouts with CSS. There's a tiny bit of JS included for the functioning.
-  You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
+  This project mainly focuses on HTML, CSS & Javascript. You will need to know some sought of javascript to complete the functionality of the calculator.
+  The use of HTML & CSS is to design the webpage and body of the calculator. There is a picture of final design in the starter files for your reference.
   Your users should be able to:
-  - View the optimal layout for the site depending on their device's screen size 
+  - View the calculator properly irrespective of their screen size. 
   - Download the starter code and go through the README.md file.
   The `README.md` file will provide further details about the project. The `style-guide.html` file is where you'll find colors, fonts, etc.
   Don't forget to share your submissions with the community to get feedback. All the best.
