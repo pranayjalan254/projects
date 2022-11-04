@@ -1,8 +1,7 @@
-name: 'Add the functionality to our calculator'
+name: "Add the functionality to our calculator"
 stepId: step4
 stepBreakDown:
-    - text: 'Define variables for range sliders and weight variable'
-    - text: 'display the  slider values using .innerHTML and .value property'
-    - text: 'add the formula for calculating the BMI'
-    - text: 'Based on formulae calculate the user inputs and categorise them.'
-    
+    - text: "Define variables for range sliders and weight variable"
+    - text: "display the  slider values using .innerHTML and .value property"
+    - text: "add the formula for calculating the BMI"
+    - text: "Based on formulae calculate the user inputs and categorize them."
